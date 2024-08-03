@@ -438,4 +438,4 @@ def update_custom_graph(selected_vars, start_date, end_date):
     return fig
     
 if __name__ == '__main__':
-    server.run(debug=True)                                                                  
+      app.run(port=8080)                                                                
