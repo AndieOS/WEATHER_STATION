@@ -14,10 +14,10 @@ now_ecuador = datetime.now(ecuador_tz)
 
 # Configuración de la base de datos
 db_config = {
-    'host': 'roundhouse.proxy.rlwy.net',
-    'port': '14710',
+    'host': 'monorail.proxy.rlwy.net',
+    'port': '18774',
     'user': 'root',
-    'password': 'ZvulfgacDrHrzwoGqOIEcoossaCHrxCF',
+    'password': 'KUmWNRFpmbrQCUOxgDHOiGNswZaPDELN',
     'database': 'railway'
 }
 
